@@ -6,9 +6,6 @@ group: members
 
 <h1>Eeftens Lab Members</h1>
 
-The Fraser lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
-<h5>See our<a href="/compact/"> lab compact and philosophy</a>.</h5>
-
 {% for member in site.members %}
 
 {% unless member.enddate == empty %}
@@ -119,7 +116,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
         </div>
 {% endfor %}
 <hr>
-
+<!--
 <div>
 {% assign stretch = 60 %}
 {% assign yheight = 16 %}
@@ -218,3 +215,4 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text>
 </svg>
 </div>
+-->
