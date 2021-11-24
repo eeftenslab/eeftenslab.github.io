@@ -1,4 +1,4 @@
-## Fraser Lab Alumni
+## Eeftens Lab Alumni
 {% assign sorted = (site.members | sort: "enddate") | reverse %}
 {% for member in sorted %}
 
@@ -72,7 +72,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
-## Undergraduate Interns
+## Master&Bachelor Interns
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
@@ -103,41 +103,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 </p>
 </div> {% endfor %}
 
-
-<br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% for student in sorted %}
-
-{% assign position = student.position | downcase %}
-{% unless position contains "sep" %}
-{% continue %}
-{% endunless %}
-
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-
-{% assign start = student.startdate | first | date:"%Y" %}
-{% assign end = student.enddate | last | date:"%Y" %}
-
-{% if start == end %}
-{{ start }}<br>
-{% else %}
-{{ start }} - {{ end }}<br>
-{% endif %}
-
-{% if student.pronouns %}
-<em>{{student.pronouns}}</em> <br>
-{% endif %}
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
-## Fraser Lab Visitors
+## Eeftens Lab Visitors
 {% for visitor in sorted %}
 
 {% assign position = visitor.position | downcase %}
