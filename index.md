@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab
+title: Eeftens Lab
 layout: home
 group: home
 ---
