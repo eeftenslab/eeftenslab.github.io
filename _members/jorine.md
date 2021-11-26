@@ -1,5 +1,5 @@
 ---
-name: FirstName LastName
+name: Jorine Eeftens
 startdate: [2021-09-01]
 enddate: []
 image: /static/img/members/jorine.jpg #365 x 365 pixels, 72 dpi
