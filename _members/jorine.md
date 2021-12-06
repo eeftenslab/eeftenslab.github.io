@@ -20,5 +20,5 @@ Staying in the field of physics behind chromatin organisation, she moved to Prin
 
 In September 2021, she started her lab at the Radboud University Nijmegen. Combining her experiences from her PhD and postdoc, she will lead the efforts to examine the biophysical mechanisms that drive chromatin architecture, using an interdisciplinary approach.
 
-Outside the lab, Jorine enjoys cooking, reading, leather working, and watching bad reality tv.
+Outside the lab, Jorine enjoys cooking, reading, leather working, and watching bad reality tv."
 ---
