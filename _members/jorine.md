@@ -5,7 +5,7 @@ enddate: []
 image: /static/img/members/jorine.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/jorine.jpg #365 x 365 pixels, 72 dpi
 position: Principle Investigator
-pronouns: she/her/hers #personal pronouns
+pronouns: she/her #personal pronouns
 email: jorine (at) eeftenslab.com #Preferred public email address
 scholar: vufhst0AAAAJ #Google Scholar User ID
 # website: https://website.com/
