@@ -2,8 +2,8 @@
 name: Letitia Fernandez
 startdate: [2022-01-18]
 enddate: []
-image: /static/img/members/Letitia.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Letitia.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/letitia.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/letitia.jpg #365 x 365 pixels, 72 dpi
 position: Master Student
 pronouns: she/her #personal pronouns
 # email: 
