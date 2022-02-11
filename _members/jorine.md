@@ -12,11 +12,11 @@ scholar: vufhst0AAAAJ #Google Scholar User ID
 twitter: drjorine
 linkedin: jorine-eeftens
 orcid: 0000-0001-6784-9955
-description: "Jorine did her BSc and MSc at the Radboud University Nijmegen, where she was interested at the interface between chemistry and biology, and the molecular mechanisms driving biological processes. Deciding she enjoyed interdisciplinary research, she moved to do her PhD at the lab of [Cees Dekker](http://ceesdekkerlab.nl) at the Technical University of Delft, in the department of [Bionanoscience](http://bn.tudelft.nl) . Here she studied the molecular mechanism of SMC proteins using single-molecule techniques. Her work involved a visit to Columbia University, for which she received an EMBO short term fellowship. She graduated Cum Laude and won the DEWIS award for best female PhD graduate 2017-2018.
+description: "Hi everyone! I did my BSc and MSc at the Radboud University Nijmegen, where I was interested in the interface between chemistry and biology, and the molecular mechanisms driving biological processes. I enjoyed interdisciplinary research, so I decided to do my PhD at the lab of [Cees Dekker](http://ceesdekkerlab.nl) at the Technical University of Delft, in the department of [Bionanoscience](http://bn.tudelft.nl) . Here I studied the molecular mechanism of SMC proteins using single-molecule techniques. My work involved a visit to Columbia University, for which I received an EMBO short term fellowship. I graduated Cum Laude and won the DEWIS award for best female PhD graduate 2017-2018.
 
-Staying in the field of physics behind chromatin organisation, she moved to Princeton University for a postdoc in the lab of [Clifford Brangwynne](http://softlivingmatter.com). Here she looked at the role of phase separation in heterochromatin formation. She received a NWO Rubicon fellowship for her work. 
+Staying in the field of physics behind chromatin organisation, I moved to Princeton University for a postdoc in the lab of [Clifford Brangwynne](http://softlivingmatter.com). Here I looked at the role of phase separation in heterochromatin formation. I received a NWO Rubicon fellowship for my work. 
 
-In September 2021, she started her lab at the Radboud University Nijmegen. Combining her experiences from her PhD and postdoc, she will lead the efforts to examine the biophysical mechanisms that drive chromatin architecture, using an interdisciplinary approach.
+In September 2021, I started my lab at the Radboud University Nijmegen. Combining my experiences from my PhD and postdoc, I will lead the efforts to examine the biophysical mechanisms that drive chromatin architecture, using an interdisciplinary approach.
 
-Outside the lab, Jorine enjoys cooking, reading, leather working, and watching bad reality tv."
+Outside the lab, I enjoy cooking, reading, leather working, and watching bad reality tv."
 ---
