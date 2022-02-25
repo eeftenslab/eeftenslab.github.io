@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-
+Welcome to the Eeftens lab!
 Biophysics of chromatin organisation
 {: .welcomefontbig}
 <br>
