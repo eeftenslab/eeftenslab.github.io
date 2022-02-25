@@ -13,3 +13,5 @@ We are part of the [Radboud Institute Molecular Life Sciences and Faculty of Sci
 
 We are located in the RIMLS research tower on the Radboud University Campus.
 {: .welcomefont}
+
+<welcomefont> hello </welcomefont>
