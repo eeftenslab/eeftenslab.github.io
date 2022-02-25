@@ -5,6 +5,7 @@ group: home
 ---
 
 Welcome to the Eeftens lab!
+{:.welcomefontbigger}
 Biophysics of chromatin organisation
 {: .welcomefontbig}
 <br>
