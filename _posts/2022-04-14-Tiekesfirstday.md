@@ -9,4 +9,3 @@ Tieke Kuijpers joins the lab! Tieke is studying Molecular Life Sciences, and wil
 Welcome Tieke!
 
  
-# ![tiekesfirstday](/static/img/members/tieke.jpg "tiekesfirstday")
