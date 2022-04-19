@@ -5,4 +5,4 @@ layout: post
 group: news
 ---
 
-Lumicks wrote a blog post about the C-trap installation in our lab, check it out!
+Lumicks wrote a [blog post] (https://lumicks.com/c-trap-installed-at-radboud-university-to-study-chromatin-organization/) about the C-trap installation in our lab, check it out!
