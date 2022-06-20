@@ -10,9 +10,7 @@ We are looking for a PhD student to join our team.
 
 Would you like to contribute to research in chromatin biology to generate novel insights about its mechanics? As a PhD Candidate, you will investigate the effects of physical forces on nuclei, genomes and transcription. Your work will help us take one step further in the direction of understanding the complexity of nuclear organisation.
 
-APPLY HERE
-
-https://www.ru.nl/en/working-at/job-opportunities/phd-candidate-in-chromatin-mechanics
+[CLICK HERE TO APPLY](https://www.ru.nl/en/working-at/job-opportunities/phd-candidate-in-chromatin-mechanics)
 
 ## Postdoc?
 We are always interested in connecting with talented people. Message Jorine to talk about opportunities. 
