@@ -13,6 +13,8 @@ Would you like to contribute to research in chromatin biology to generate novel 
 [CLICK HERE TO APPLY](https://www.ru.nl/en/working-at/job-opportunities/phd-candidate-in-chromatin-mechanics)
 
 ## Postdoc?
+If you are a non-Dutch researcher based outside the Netherlands, you might be eligible for a Radboud Excellende Fellowship. [CLICK HERE](https://www.ru.nl/excellence/nomination/initiative/) to learn about the Radboud Excellence Initiative.
+
 We are always interested in connecting with talented people. Message Jorine to talk about opportunities. 
 
 ## Interested in an internship?
