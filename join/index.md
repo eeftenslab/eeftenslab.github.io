@@ -18,4 +18,4 @@ If you are a non-Dutch researcher based outside the Netherlands, you might be el
 We are always interested in connecting with talented people. Message Jorine to talk about opportunities. 
 
 ## Interested in an internship?
-Are you a Bachelor or Master student interested in an interdisciplinary internship? We welcome students from Biology, Molecular Life Sciences, Chemistry, Physics, and all related fields. Message Jorine to inquire about opportunities. 
+Are you a Bachelor or Master student interested in an interdisciplinary internship? We welcome students from Biology, Molecular Life Sciences, Chemistry, Physics, and all related fields. Message Jorine to inquire about opportunities or apply through [Protimo](https://protimo.science.ru.nl/). 
