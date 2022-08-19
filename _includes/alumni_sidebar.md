@@ -15,9 +15,7 @@
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{member.name}}</strong> - <em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
 
-{% if member.pronouns %}
-<em>{{member.pronouns}}</em> <br>
-{% endif %}
+
 
 {% assign start = member.startdate | first | date:"%Y" %}
 {% assign end = member.enddate | last | date:"%Y" %}
@@ -72,6 +70,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
+<!
 ## Master&Bachelor Interns
 {% for undergraduate in sorted %}
 
@@ -123,7 +122,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 {% else %}
 {{ start }} - {{ end }}<br>
 {% endif %}
-
+>
 {% if visitor.pronouns %}
 <em>{{visitor.pronouns}}</em> <br>
 {% endif %}
