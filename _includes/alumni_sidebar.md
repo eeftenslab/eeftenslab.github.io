@@ -70,7 +70,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
-<!
+<!--
 ## Master&Bachelor Interns
 {% for undergraduate in sorted %}
 
@@ -128,3 +128,4 @@ Subsequently: {{undergraduate.subsequent}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}
+-->
