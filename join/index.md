@@ -9,7 +9,7 @@ group: join
 If you are a researcher residing in the Netherlands as refugee and you wish to start or continue your academic career, you might be eligible for NWO Hestia funding. Check [HERE](https://www.nwo.nl/en/calls/hestia-impulse-refugees-science-0) for opportunities or contact Jorine.
 
 ## PhD?
-We unfortunately do not have PhD positions open at this time.
+If you are currently residing in the Netherlands, and you or one of your parents has a migration background from Africa, Asia, the Caribbean, Central or South America or Turkey: you may be eligble for an NWO Mosaic PhD scholarship. We are happy to talk about projects and hosting you. Click [HERE](https://www.nwo.nl/en/calls/mosaic-20-2022) for more information on this scholarship and contact Jorine.
 
 ## Postdoc?
 If you are a non-Dutch researcher based outside the Netherlands, you might be eligible for a Radboud Excellende Fellowship. [CLICK HERE](https://www.ru.nl/excellence/nomination/initiative/) to learn about the Radboud Excellence Initiative.
