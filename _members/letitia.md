@@ -1,7 +1,7 @@
 ---
 name: Letitia Fernandez
 startdate: [2022-01-18]
-enddate: []
+enddate: [2023-01-01]
 image: /static/img/members/letitia.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/letitia.jpg #365 x 365 pixels, 72 dpi
 position: Master Student
