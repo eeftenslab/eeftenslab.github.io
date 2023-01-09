@@ -7,4 +7,4 @@ group: news
 
 We enjoyed our lab Holiday Borrel, exchanging well wishes before we all take a well deserved break. We also said goodbye to Letitia, who finished her Master's internship and will go on to a new lab in Heidelberg, Germany. All the best for your career, Letitia!
 
-<img src=/static/img/members/labphotowinter22.jpg width=800>
+![](/static/img/members/labphotowinter22.jpg)
