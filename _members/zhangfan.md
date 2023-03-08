@@ -2,8 +2,8 @@
 name: Zhangfan Li
 startdate: [2023-03-06]
 enddate: []
-image: /static/img/members/Zhangfan.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Zhangfan.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/zhangfan.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/zhangfan.jpg #365 x 365 pixels, 72 dpi
 position: Master student
 pronouns: he/him #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
