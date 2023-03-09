@@ -9,4 +9,4 @@ Wessel Rodenburg joins the lab! Wessel has a degree in Biomedical Sciences from 
 Welcome Wessel!
 
 
-<img src="/static/img/members/wessel.jpg" width="300" height="300" style="float: right;">
+<img src="/static/img/members/wessel.jpg" width="300" height="300">
