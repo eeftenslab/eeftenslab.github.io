@@ -1,5 +1,5 @@
 ---
-name: Zubi 
+name: Zubi Aimee Govers
 startdate: [2023-04-12]
 enddate: []
 image: /static/img/members/zubi.jpg #365 x 365 pixels, 72 dpi
