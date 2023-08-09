@@ -1,0 +1,13 @@
+---
+title: "CYSRT1: An Antimicrobial Epidermal Protein that Can Interact with Late Cornified Envelope Proteins"
+authors: "Niehues, H., Rikken, G., Kersten, FFJ., **Eeftens, JM.**, Vlijmen-Willems, IMMJ. van, Rodijk-Olthuis, D., Jansen, PAM., Hendriks, WJAJ., Ederveen, THA., Schalkwijk, J., Bogaard, EH. van den., Zeeuwen, PLJM."
+journal: "Journal of Investigative Dermatology"
+pub_date: "202301" #Date of journal publication, NOT BIORXIV UPLOAD
+image: ""
+#biorxiv: "2021.12.31.474660v1"
+#biorxiv_version: "YYYY.MM.DD.######v1"
+#pdf: "/static/pdf/publications/surname_YYYY.pdf"
+links:
+  - name: "Commentary by Natalie Jonca and Michel Simon"
+    url: "https://doi.org/10.1016/j.jid.2023.02.008"
+---
