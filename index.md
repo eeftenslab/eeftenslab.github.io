@@ -12,5 +12,5 @@ Biophysics of chromatin organisation
 We are part of the [Radboud Institute Molecular Life Sciences and Faculty of Science](https://www.ru.nl/science/rimls/), the [Cell Biology group](https://www.ru.nl/science/rimls/research/cell-biology/), at the [Radboud University Nijmegen](http://ru.nl/).
 {: .welcomefont}
 
-We are located in the RIMLS research tower on the Radboud University Campus.
+We are located in the Huygens building on the Radboud University Campus.
 {: .welcomefont}
