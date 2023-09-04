@@ -1,7 +1,7 @@
 ---
 name: Sven Ebben
 startdate: [2023-09-04]
-# enddate: [2023-06-30]
+enddate: []
 image: /static/img/members/sven.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/sven.jpg #365 x 365 pixels, 72 dpi
 position: Bachelor student
