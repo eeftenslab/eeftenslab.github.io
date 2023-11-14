@@ -6,3 +6,5 @@ group: news
 ---
 
 Jorine attended the LUMICKS C-trap user meeting in Amsterdam at Lumicks HQ and presented the latest work in the lab. It was great meeting new people and familiar faces at this excellent meeting! 
+
+<img src="/static/img/news/lumicksusermeeting23.jpeg" width="600">
