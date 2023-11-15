@@ -4,7 +4,7 @@ startdate: [2023-02-01]
 enddate: [2023-10-01]
 image: /static/img/members/Wojciech.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Wojciech.jpg #365 x 365 pixels, 72 dpi
-position: Postdoc, co-advised with [Evan Spruijt](https://spruijtlab.com/)
+position: Postdoc
 pronouns: he/him #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
 # scholar: vufhst0AAAAJ #Google Scholar User ID
