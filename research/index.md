@@ -18,7 +18,7 @@ Our lab aims to examine the functional relevance of the genome architecture and 
 </div>
 <br>
 <br>
-<img src="/static/img/research/chromatin1.png" width="600">
+<img src="/static/img/research/chromatin1.png" width="800" class="center">
 
 
 <div class="row">
