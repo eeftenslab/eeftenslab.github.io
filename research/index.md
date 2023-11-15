@@ -25,5 +25,8 @@ Our interdisciplinary research combines techniques from physics, cell biology, a
 On the smallest scale, we use single-molecule force spectroscopy to examine mechanical properties of DNA. We tether DNA between beads, which we can trap and manipulate using optical tweezers. We can monitor the force response of the DNA and its modifications by manipulating the beads. The combination with confocal microscopy allows visualization of factors that bind to the DNA. We are interested in monitoring binding kinetics of diverse chromatin interactors including transcription factors, chromatin remodelers, and respressing proteins.
 <br>
 <br>
+On the mesoscale, proteins and nucleic acids form complexes and compartments in the nucleus. As many essential nuclear processes including transcription, silencing, and repair, require assembly of many factors, these biomolecular condensates can help concentrate and organize the execution of these processes. We are interested in understanding how the material properties of these condensates relate to function.
+<br>
+<br>
 On the scale of a whole nucleus, we are interested in understanding how chromatin relates to the stiffness of the cell and the nucleus. Cells are continuously exposed to forces in their native environment. How they deform and adapt upon experiencing these forces is essential for survival. Chromatin takes up a significant portion of the nuclear volume, and is thus a major structural component. In our lab, we monitor and quantify the response of cells and nuclei upon experiencing force.
 </div>
