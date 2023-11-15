@@ -16,8 +16,13 @@ Nuclear organization occurs on several levels, all involving physical processes.
   <br>
 Our lab aims to examine the functional relevance of the genome architecture and the biophysical mechanisms that drive it. We use a multifaceted and interdisciplinary approach, ranging from single-molecule biophysics to genomics and engineering.
 </div>
+<br>
+<br>
+<img src="/static/img/research/chromatin1.jpg" width="600">
+
 
 <div class="row">
+  
 
 
 
