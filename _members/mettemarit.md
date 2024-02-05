@@ -1,7 +1,7 @@
 ---
 name: Mette Marit Vosjan
 startdate: [2024-02-05]
-# enddate: [2023-11-23]
+enddate: []
 image: /static/img/members/MetteMarit.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/MetteMarit.jpg #365 x 365 pixels, 72 dpi
 position: Bachelor student
