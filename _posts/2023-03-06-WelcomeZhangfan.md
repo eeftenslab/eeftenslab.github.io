@@ -7,4 +7,4 @@ group: news
 
 Welcome to Zhangfan Li, who started his Master internship today. Zhangfan is in the Chemistry of Life program at the Radboud University. Welcome Zhangfan!
 
-<img src="/static/img/members/zhangfan.jpg" width="300" height="300">
+
