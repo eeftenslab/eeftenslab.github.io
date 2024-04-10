@@ -2,8 +2,8 @@
 name: Sjoerd Uijttewaal
 startdate: [2024-04-08]
 enddate: []
-image: /static/img/members/Sjoerd.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Sjoerd.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Sjoerd.JPG #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/Sjoerd.JPG #365 x 365 pixels, 72 dpi
 position: Master student
 pronouns: he/him #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
