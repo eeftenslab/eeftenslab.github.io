@@ -1,4 +1,3 @@
-
 ---
 title: Jorine gives keynote talk at TheoryXperiment
 author: Jorine Eeftens
