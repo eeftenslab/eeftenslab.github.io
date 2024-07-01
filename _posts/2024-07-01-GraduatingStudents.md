@@ -1,5 +1,5 @@
 ---
-title: Aleid, Kess and Mette Marit finish their internships
+title: Aleid, Kes and Mette Marit finish their internships
 author: Jorine Eeftens
 layout: post
 group: news
