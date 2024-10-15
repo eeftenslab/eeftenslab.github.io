@@ -4,7 +4,7 @@ authors: "**Rodenburg, WS., Ebben, SFA., Eeftens, JM.**"
 # journal: "Molecular Biology of the Cell"
 # pub_date: "2024" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/241015Rodenburg.png"
-biorxiv: "2024.10.13.618126v1"
+biorxiv: "2024.10.13.618126"
 #biorxiv_version: "YYYY.MM.DD.######v1"
 #pdf: "/static/pdf/publications/Strom_2024.pdf"
 #links:
