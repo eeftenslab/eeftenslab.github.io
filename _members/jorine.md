@@ -11,6 +11,7 @@ scholar: vufhst0AAAAJ #Google Scholar User ID
 # website: https://website.com/
 twitter: drjorine
 linkedin: jorine-eeftens
+bsky: "drjorine.bsky.social"
 orcid: 0000-0001-6784-9955
 description: "Hi everyone! My name is Jorine and I'm the PI of the biophysics of chromatin lab. I did my BSc and MSc at the Radboud University Nijmegen, where I was interested in the interface between chemistry and biology, and the molecular mechanisms driving biological processes. I enjoyed interdisciplinary research, so I decided to do my PhD at the lab of [Cees Dekker](http://ceesdekkerlab.nl) at the Technical University of Delft, in the department of [Bionanoscience](http://bn.tudelft.nl) . Here I studied the molecular mechanism of SMC proteins using single-molecule techniques. My work involved a visit to Columbia University, for which I received an EMBO short term fellowship. I graduated Cum Laude and won the DEWIS award for best female PhD graduate 2017-2018.
 
