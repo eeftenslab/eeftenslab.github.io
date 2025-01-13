@@ -9,7 +9,7 @@ pronouns: she/her #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
 scholar: vufhst0AAAAJ #Google Scholar User ID
 # website: https://website.com/
-twitter: drjorine
+# twitter: drjorine
 linkedin: jorine-eeftens
 bsky: "drjorine.bsky.social"
 orcid: 0000-0001-6784-9955
