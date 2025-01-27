@@ -4,7 +4,7 @@ startdate: [2023-11-06]
 enddate: [2024-09-26]
 image: /static/img/members/aleid.jpeg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/aleid.jpeg #365 x 365 pixels, 72 dpi
-position: MSc student
+position: Master student
 pronouns: she/her #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
 # scholar: vufhst0AAAAJ #Google Scholar User ID
