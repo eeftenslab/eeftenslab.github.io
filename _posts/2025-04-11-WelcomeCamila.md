@@ -5,4 +5,4 @@ layout: post
 group: news
 ---
 
-Welcome to Camila, a new BSc student in our lab.
+Welcome to Camila Delgado Zuvanic, a new BSc intern in our lab. 
