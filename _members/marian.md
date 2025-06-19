@@ -1,11 +1,11 @@
 ---
 name: Marian Barandica Graciani
 startdate: [2024-11-01]
-enddate: []
-image: /static/img/members/Marian.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Marian.jpg #365 x 365 pixels, 72 dpi
+enddate: [2025-06-18]
+# image: /static/img/members/Marian.jpg #365 x 365 pixels, 72 dpi
+# altimage: /static/img/members/Marian.jpg #365 x 365 pixels, 72 dpi
 position: Master student
-pronouns: She/her #personal pronouns
+# pronouns: She/her #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
 # scholar: vufhst0AAAAJ #Google Scholar User ID
 # website: https://website.com/
