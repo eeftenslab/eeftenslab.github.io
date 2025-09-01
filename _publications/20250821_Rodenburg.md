@@ -9,5 +9,5 @@ image: "/static/img/pub/250821Rodenburg.png"
 pdf: "/static/pdf/publications/Rodenburg_2025A.pdf"
 links:
   - name: "Link to journal"
-    url: "https://doi.org/10.1091/mbc.E24-01-0046"
+    url: "https://doi.org/10.1080/19491034.2025.2545037"
 ---
