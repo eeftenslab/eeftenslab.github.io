@@ -1,7 +1,7 @@
 ---
 name: Kerrie Lloyd
 startdate: [2025-02-03]
-enddate: []
+enddate: [2025-12-01]
 image: /static/img/members/kerrie.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/kerrie.jpg #365 x 365 pixels, 72 dpi
 position: Master student
