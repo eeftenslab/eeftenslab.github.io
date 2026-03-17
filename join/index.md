@@ -9,10 +9,12 @@ group: join
 If you are a researcher residing in the Netherlands as refugee and you wish to start or continue your academic career, you might be eligible for NWO Hestia funding. Check [HERE](https://www.nwo.nl/en/researchprogrammes/hestia-impulse-for-refugees-in-science) for opportunities or contact Jorine.
 
 ## PhD?
+We are looking for a PhD student with prior experience in single-molecule biophysics. Message Jorine to connect.
+
+
 If you are currently residing in the Netherlands, and you or one of your parents has a migration background from Africa, Asia, the Caribbean, Central or South America or Turkey: you may be eligble for an NWO Mosaic PhD scholarship. We are happy to talk about projects and hosting you. Click [HERE](https://www.nwo.nl/en/researchprogrammes/mosaic) for more information on this scholarship and contact Jorine.
 
 ## Postdoc?
-We are currently recruiting a postdoc in Cellular Biophysics. Apply through the vacancy [HERE](https://www.ru.nl/en/working-at/job-opportunities/postdoc-position-cellular-biophysics).
 We are always interested in connecting with talented people. Message Jorine to talk about opportunities. 
 
 ## Interested in an internship?
