@@ -12,5 +12,5 @@ pronouns: she/her #personal pronouns
 # twitter: drjorine
 # linkedin: camila-delgado-zuvanic-09027a345
 # orcid: 0000-0001-6784-9955
-description: "Hi!! My name is Camila and I'm currently doing my Bachelor's degree in Biology at Radboud University. I'm very excited to be doing my internship at the Eeftens lab. For the next few weeks I will be working on Luuk's project on the quantification of chromatin stability. In my free time, I enjoy baking, reading, and listening to music."
+description: ""
 ---
