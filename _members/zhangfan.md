@@ -12,5 +12,5 @@ pronouns: he/him #personal pronouns
 # twitter: drjorine
 # linkedin: zhangfan-li-807b11240
 # orcid: 0000-0001-6784-9955
-description: "Hi! I am a Master student in Chemistry of Life at Radboud. I received my Bachelor’s degree in Applied Chemistry at Dalian University of Technology. During my Master study, I have done an internship in Spruijt Lab. I am interested in the interdisciplinary field of cell biology and chemistry. Now I am doing internship in Eeftens Lab studying expansion microscopy in the nucleus. I enjoy spending time at bookstores in my free time."
+description: ""
 ---
