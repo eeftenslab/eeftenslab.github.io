@@ -12,5 +12,5 @@ pronouns: she/her #personal pronouns
 # twitter: drjorine
 # linkedin: mette-marit-vosjan-9a772a26b
 # orcid: 0000-0001-6784-9955
-description: "Hello everyone! My name is Mette Marit and I am doing my internship here at Eeftens lab. I am currently studying life sciences at the HAN in Nijmegen and my major was Biomedical Research. I am interested in cells at a molecular level and look forward to gain some experience in a lab. Besides biology I also like to read and to bake."
+description: ""
 ---
