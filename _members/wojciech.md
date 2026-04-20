@@ -12,5 +12,5 @@ pronouns: he/him #personal pronouns
 # twitter: drjorine
 # linkedin: wojteklipinski
 # orcid: 0000-0001-6784-9955
-description: "Hi! My name is Wojtek and in February 2023 I joined the Eeftens team as a postdoctoral researcher. I received my MSc in Organic Chemistry from the Łódź University of Technology (Poland). Then I did my PhD in the lab of Evan Spruijt at Radboud University, studying the relations between liquid-liquid phase separation and aggregation of proteins. Now I will be working on determining the viscoelastic properties of protein condensates inside living cells. Outside the lab, I enjoy shooting old cars with old cameras."
+description: ""
 ---
