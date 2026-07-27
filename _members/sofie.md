@@ -1,11 +1,11 @@
 ---
 name: Sofie Kostelijk
 startdate: [2026-04-07]
-enddate: []
-image: /static/img/members/Sofie.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Sofie.jpg #365 x 365 pixels, 72 dpi
+enddate: [2026-07-26]
+# image: /static/img/members/Sofie.jpg #365 x 365 pixels, 72 dpi
+# altimage: /static/img/members/Sofie.jpg #365 x 365 pixels, 72 dpi
 position: BSc student
-pronouns: she/her #personal pronouns
+# pronouns: she/her #personal pronouns
 # email: jorine (at) eeftenslab.com #Preferred public email address
 # scholar: 5dIrorIAAAAJ #Google Scholar User ID
 # website: https://website.com/
