@@ -1,5 +1,5 @@
 ---
-title: "Multiscale Physical Effects of CpG Methylation on DNA Mechanics, Nucleosome Wrapping, and Chromatin Condensates"
+title: "Synergistic perspectives - How single-molecule biophysics complement biochemical understanding"
 authors: "**De Bragança, S., Jansen, EL., Eeftens, JM.**"
 journal: "FEBS Letters"
 pub_date: "2026" #Date of journal publication, NOT BIORXIV UPLOAD
