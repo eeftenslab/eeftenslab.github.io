@@ -1,6 +1,6 @@
 ---
 title: "Nuclear mechanobiology: a brief history and five unresolved questions"
-authors: "Lammerding, J., **Eeftens, JM.**", Gundersen, GG., King, MC., Lele, TP., Li, S., Luxton, GGW., Medalia, O., Piel, M., Roca-Cusachs, P., Renkawitz, J., Roux, K., Starr, DA., Strom, AR., Racine Thiam, H., Wickström, SA., Worman, HJ.
+authors: Lammerding, J., "**Eeftens, JM.**", Gundersen, GG., King, MC., Lele, TP., Li, S., Luxton, GGW., Medalia, O., Piel, M., Roca-Cusachs, P., Renkawitz, J., Roux, K., Starr, DA., Strom, AR., Racine Thiam, H., Wickström, SA., Worman, HJ.
 journal: "Nucleus"
 pub_date: "2026" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/260903Lammerding.png"
